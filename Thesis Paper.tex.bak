@@ -1,0 +1,62 @@
+\documentclass[dvips,letterpaper,12pt]{report}
+%\documentclass[aps,preprint, groupaddress , amsmath, amssymb, showpacs, showkeys]{revtex4}
+\usepackage{thesis}
+%\documentclass[aps,twocolumn, groupaddress , amsmath, amssymb, showpacs, showkeys,reprint]{revtex4}
+\usepackage{graphicx}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+\usepackage{upgreek}% Greak symbols NOT italic
+%\usepackage{units}
+\usepackage{times}
+\usepackage{mathrsfs}
+\usepackage{amsmath} % for bolded greek
+
+
+
+\begin{document}
+
+\pagenumbering{roman}
+
+% Fill in the title, author, degree name, department, and month/year.
+% Upon completion, this should look like the following:
+%\thesistitle
+%	{Complicated and Important-Sounding Thesis Title}
+%	{Sheikh Jamil Ahmed}
+%	{Master of Science}
+%	{Department of Physics}
+%	{May 2009}
+% The \thesistitle definition is in thesis.sty.  Other customizations
+% can be made there.
+\thesistitle
+	{COMPUTER SIMULATION OF FUNCTIONAL MATERIALS FOR THERAPEUTIC ULTRASOUND APPLICATION}
+	{\emph{SHEIKH JAMIL AHMED}}
+	{Master of Science}
+	{Department of Physics}
+	{\emph{August 2013}}
+
+\include{abstract}
+\include{ack}
+\include{contents}
+\include{tables}
+\include{figures}
+
+\pagenumbering{arabic}
+\include{chap1}
+\include{chap2}
+\include{chap3}
+\include{chap4}
+\include{chap5}
+
+\include{bib}
+
+
+
+
+
+
+% If you have no appendices, remove the following two lines.
+% If you have more appdences, add them as necessary.
+\appendix
+\include{apdxa}
+
+\end{document}

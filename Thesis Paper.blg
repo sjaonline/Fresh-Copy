@@ -1,0 +1,24 @@
+This is BibTeX, Version 0.99cThe top-level auxiliary file: Thesis Paper.aux
+The style file: abbrv.bst
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: ack.aux
+A level-1 auxiliary file: contents.aux
+A level-1 auxiliary file: tables.aux
+A level-1 auxiliary file: figures.aux
+A level-1 auxiliary file: chap1.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: chap5.aux
+A level-1 auxiliary file: bib.aux
+Illegal, another \bibstyle command---line 2 of file bib.aux
+ : \bibstyle
+ :          {ieeetr}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: apdxa.aux
+Database file #1: library.bib
+Warning--empty publisher in Hynynen...5
+Warning--empty year in Hynynen...5
+Warning--empty publisher in Jolesz...1
+Warning--empty year in Jolesz...1
+(There was 1 error message)

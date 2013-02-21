@@ -1,0 +1,11 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.8.16)  21 FEB 2013 14:49
+entering extended mode
+**C:/Documents*and*Settings/student/Desktop/Thesis*Paper/Fresh*Copy/chap1.tex
+("C:/Documents and Settings/student/Desktop/Thesis Paper/Fresh Copy/chap1.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+! Undefined control sequence.
+l.1 \chapter
+            {Introduction}
+? 
