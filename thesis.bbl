@@ -1,5 +1,17 @@
 \begin{thebibliography}{1}
 
+\bibitem{Carson.1978.JCU.126}
+P.~L. Carson.
+\newblock Biomedical ultrasonics. by p.n.t. wells, ph.d., academic press, inc.
+  london.
+\newblock {\em J. Clin. Ultrasound}, 6(2):126--127, 1978.
+
+\bibitem{Hendee.2003..317}
+W.~R. Hendee and E.~R. Ritenour.
+\newblock Ultrasound transducers.
+\newblock In {\em Medical Imaging Physics}, pages 317--330. John Wiley \& Sons,
+  Inc., 2003.
+
 \bibitem{Hunt.1987..354}
 J.~Hunt.
 \newblock Principles of ultrasound used for hyperthermia.
@@ -36,5 +48,12 @@ a.~M. Sime.
 \newblock {Relationship of preoperative fear, type of coping, and information
   recevied about surgery to recovery from surgery.}
 \newblock {\em J. Pers. Soc. Psychol.}, 34(4):716--24, Oct. 1976.
+
+\bibitem{Takasaki.2007..3817}
+M.~Takasaki, Y.~Maruyama, and T.~Mizuno.
+\newblock Resonance frequency tracing system for langevin type ultrasonic
+  transducers.
+\newblock In {\em Mechatronics and Automation, 2007. ICMA 2007. International
+  Conference on}, pages 3817 --3822, aug. 2007.
 
 \end{thebibliography}

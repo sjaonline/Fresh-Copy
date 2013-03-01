@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.8.16)  20 FEB 2013 16:08
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.8.16)  28 FEB 2013 16:03
 entering extended mode
 **C:/Documents*and*Settings/student/Desktop/Thesis*Paper/Fresh*Copy/thesis.tex
 ("C:/Documents and Settings/student/Desktop/Thesis Paper/Fresh Copy/thesis.tex"
@@ -68,37 +68,44 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \c@cor=\count89
 )
 \c@thm=\count90
- (thesis.aux
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\natbib\natbib.sty"
+Package: natbib 2009/11/07 8.31a (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+) (thesis.aux
 (abstract.aux) (ack.aux) (contents.aux) (tables.aux) (figures.aux) (chap1.aux)
 (chap2.aux) (chap3.aux) (chap4.aux) (chap5.aux) (chap6.aux) (bib.aux)
 (apdxa.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 29.
+(Font)              <17.28> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 29.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 29.
+(Font)              <12> on input line 30.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 30.
  ("C:\Program Files\MiKTeX 2.7\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
 
 ("C:\Program Files\MiKTeX 2.7\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
  [1
 
 ] (abstract.tex
@@ -155,26 +162,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 [][]\OT1/cmr/m/n/10 http://brainchemist.wordpress.com/2010/11/09/mri-guided-foc
 used-ultrasound-surgery-
  []
 
-
-LaTeX Warning: Citation `Carson.1978.JCU.126' on page 2 undefined on input line
- 19.
-
 [2]
-Overfull \hbox (19.13383pt too wide) in paragraph at lines 24--24
+File: Compressionandrarefactioncollected.eps Graphic file (type eps)
+ <Compressionandrarefactioncollected.eps> [3] [4]
+File: UltrasoundTransducercollected.eps Graphic file (type eps)
+
+<UltrasoundTransducercollected.eps>
+Overfull \hbox (19.13383pt too wide) in paragraph at lines 52--52
 []\OT1/cmr/bx/n/17.28 Factor to fo-cus:Dielectric dis-si-pa-tion fac-tor, Hys-
  []
 
-) [3] [4] (chap2.tex
+) [5] (chap2.tex
 Chapter 2.
 File: figures/MUN_Logo_Pantone.eps Graphic file (type eps)
 <figures/MUN_Logo_Pantone.eps>
 File: figures/enrollment.eps Graphic file (type eps)
- <figures/enrollment.eps> [5
+ <figures/enrollment.eps> [6
 
 
 
@@ -183,7 +191,7 @@ File: figures/enrollment-landscape.eps Graphic file (type eps)
 
 <figures/enrollment-landscape.eps>
 File: figures/enrollment-rotate.eps Graphic file (type eps)
- <figures/enrollment-rotate.eps> [6] [7]
+ <figures/enrollment-rotate.eps> [7] [8]
 File: figures/db-deadlock.eps Graphic file (type eps)
 
 <figures/db-deadlock.eps>
@@ -199,62 +207,58 @@ Overfull \hbox (6.92888pt too wide) in paragraph at lines 52--65
 ip-pets) us-ing the []\OT1/cmtt/m/n/12 \muntxtfig
  []
 
-[8] [9]
+[9] [10]
 Overfull \hbox (17.51135pt too wide) in paragraph at lines 108--151
  [][][] 
  []
 
-) [10] [11] (chap3.tex
+) [11] [12] (chap3.tex
 Chapter 3.
-) [12
+) [13
 
 
 
 ] (chap4.tex
 Chapter 4.
-[13
+[14
 
 
 
-] [14]) [15] (chap5.tex
+] [15]) [16] (chap5.tex
 Chapter 5.
-) [16
+) [17
 
 
 
 ] (chap6.tex
 Chapter 6.
-) [17
+) [18
 
 
 
 ] (bib.tex (thesis.bbl
 Missing character: There is no â in font cmr12!
 Missing character: There is no ¤ in font cmr12!
-)) [18
+ [19
 
 
 
-] (apdxa.tex
+])) [20] (apdxa.tex
 Appendix A.
-) [19
+) [21
 
 
 
 ] (thesis.aux (abstract.aux) (ack.aux) (contents.aux) (tables.aux)
 (figures.aux) (chap1.aux) (chap2.aux) (chap3.aux) (chap4.aux) (chap5.aux)
-(chap6.aux) (bib.aux) (apdxa.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(chap6.aux) (bib.aux) (apdxa.aux)) ) 
 Here is how much of TeX's memory you used:
- 934 strings out of 95305
- 10664 string characters out of 1183042
- 77249 words of memory out of 1500000
- 4050 multiletter control sequences out of 110000
+ 1300 strings out of 95305
+ 15296 string characters out of 1183042
+ 83610 words of memory out of 1500000
+ 4411 multiletter control sequences out of 110000
  12681 words of font info for 49 fonts, out of 3000000 for 5000
  14 hyphenation exceptions out of 8191
- 32i,11n,25p,2370b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,11n,26p,2370b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (27 pages, 38260 bytes).
+Output written on thesis.dvi (29 pages, 42496 bytes).
