@@ -37,7 +37,7 @@ Transducer is a device that converts one form of energy into another.Ultrasonic 
 Here $\lambda$ is the wavelength of applied frequency and t is the effective thickness.
 If this relationship is maintained the compression or expansion wave when it reaches the end of the material is aided constructively by another compression or expansion wave and thus amplifies the ultrasound wave.
 
-Figure ~\ref{fig:Ultrasound transducer} depicts a typical configuration of an ultrasound transducer. Its main component is a piezoelectric crystals which generates the ultrasound. In order to maintain an electrical contact two electrodes are attached on both sides of the piezoelectric material. As the faces of the   cite{Hendee.2003..317}
+Figure ~\ref{fig:Ultrasound transducer} depicts a typical configuration of an ultrasound transducer. Its main component is a piezoelectric material\cite{Hendee.2003..317}.
 
 
 
@@ -47,6 +47,9 @@ Figure ~\ref{fig:Ultrasound transducer} depicts a typical configuration of an ul
 	\caption[Schematics of Ultrasound Transducer ]{Schematics of Ultrasound Transducer \footnote}\label{fig:Ultrasound transducer}
 \end{figure}
 \footnotetext{http://www.genesis.net.au/~ajs/projects/medical\_physics/ultrasound/index.html}
+
+\subsection{Piezoelectricity}
+The phenomenon of piezoelectricity was first discovered by Jcques and Pierre Curie in 1880 where the observed that under the influence of mechanical stress certain crystal undergoes electrification. ~\cite{CurieP.1880.CRF.294}. Soon after that in 1881 a converse piezoelectric effect was derived mathematically by Lippman ~\cite{G.1881.AdCedP5s.145} using thermodynamic principles which was confirmed later by the curie brothers ~\cite{CurieP.1881.CRF.1137} on the same year. The latter effect was termed as indirect piezoelectric effect and the former one as direct piezoelectric effect. This phenomenon of piezoelectricity was observed only on certain materials like tourmaline,quartz,topaz,cane sugar and Rochelle salt mostly in the direction normal to polar axis. Based on this, it was concluded that this effect can be explained by the crystal symmetry study. Because of its unique nature, the discovery of piezoelectric materials created general interest among researchers  which led this material find use in 
 
 
 \section{Factor to focus:Dielectric dissipation factor, Hysteresis}

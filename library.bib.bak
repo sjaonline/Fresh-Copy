@@ -211,6 +211,26 @@
 	pin-pmn-pt}
 }
 
+@ARTICLE{CurieP.1881.CRF.1137,
+  author = {Curie P, Curie J},
+  title = {Developpement par pression, de l' electricit e polaire dans les cristaux
+	h emi edres a faces inclin ees},
+  journal = {Comptes Rendus (France)},
+  year = {1881},
+  volume = {93},
+  pages = {1137-1140}
+}
+
+@ARTICLE{CurieP.1880.CRF.294,
+  author = {Curie P, Curie J},
+  title = {Développement, par pression, de l'électricité polaire dans les cristaux
+	hémièdres à faces inclinées},
+  journal = {Comptes Rendus (France)},
+  year = {1880},
+  volume = {91},
+  pages = {294-295}
+}
+
 @ARTICLE{F.Jona..FC.,
   author = {{F. Jona}, G Shirane},
   title = {{No Title}},
@@ -221,6 +241,17 @@
   author = {{F. Jona}, G Shirane},
   title = {{No Title}},
   journal = {Ferroelectric Crystals}
+}
+
+@ARTICLE{G.1881.AdCedP5s.145,
+  author = {Lippmann G},
+  title = {Principe de la conservation de l'électricité},
+  journal = {Ann de Chemie e de Physique(5 serie)},
+  year = {1881},
+  volume = {24},
+  pages = {145},
+  owner = {student},
+  timestamp = {2013.03.03}
 }
 
 @ARTICLE{garcia:2981,
@@ -881,7 +912,7 @@
   url = {http://jim.sagepub.com/cgi/doi/10.1177/1045389X03038841}
 }
 
-@INPROCEEDINGS{4304183,
+@INPROCEEDINGS{Takasaki.2007..3817,
   author = {Takasaki, M. and Maruyama, Y. and Mizuno, T.},
   title = {Resonance Frequency Tracing System for Langevin Type Ultrasonic Transducers},
   booktitle = {Mechatronics and Automation, 2007. ICMA 2007. International Conference

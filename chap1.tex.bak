@@ -30,14 +30,14 @@ Ultrasound are basically sound waves with frequency greater than 1MHz. As human 
 \footnotetext{http://www.genesis.net.au/~ajs/projects/medical\_physics/ultrasound/index.html}
 
 \subsection{Ultrasound Transducer}
-Transducer is a device that converts one form of energy into another.Ultrasonic transducer is also one form of energy conversion device which converts electrical energy into mechanical energy using the piezoelectric effect.The transducer is operated at the resonance frequency of the piezoelectric material where it present higher response~\cite{Takasaki.2007..3817}.The piezoelectric materials vibrates with the cycles of contraction and expansion in response to the electrical energy by means of alternating current. As a result compression wave and expansion wave is generated.Possible dampening of the sound wave might occurs in situation where during cycles of contraction and expansion, expansion wave generated is weakened by an expansion wave. This represents a situation where compression wave is generated in one side of the materials before the expansion wave from other side has left the material. In a similar way, compression wave can also be weakened by expansion wave to dampen crystal response. In order to avoid these situations  careful control of the thickness of the piezoelectric materials according to the resonance frequency of the particular material. The established relationship between resonance frequency  and the thickness is 
+Transducer is a device that converts one form of energy into another.Ultrasonic transducer is also one form of energy conversion device which converts electrical energy into mechanical energy using the piezoelectric effect.The transducer is operated at the resonance frequency of the piezoelectric material where it present higher response~\cite{Takasaki.2007..3817}.The piezoelectric materials vibrates with the cycles of contraction and expansion in response to the electrical energy by means of alternating current. As a result compression wave and expansion wave is generated.Possible dampening of the sound wave might occurs in situation where during cycles of contraction and expansion, expansion wave generated is weakened by an expansion wave. This represents a situation where compression wave is generated in one side of the materials before the expansion wave from other side has left the material. In a similar way, compression wave can also be weakened by expansion wave to dampen crystal response. In order to avoid these situations  careful control of the thickness of the piezoelectric materials according to the resonance frequency of the particular material. The established relationship between resonance frequency  and the thickness is
  \begin{equation}\label{Eq:Phase-parallel}
     t=\frac{n\lambda}{2}
 \end{equation}
 Here $\lambda$ is the wavelength of applied frequency and t is the effective thickness.
 If this relationship is maintained the compression or expansion wave when it reaches the end of the material is aided constructively by another compression or expansion wave and thus amplifies the ultrasound wave.
 
-Figure ~\ref{~fig:Ultrasound transducer} depicts a typical configuration of an ultrasound transducer. It is consists\cite{Hendee.2003..317}
+Figure ~\ref{fig:Ultrasound transducer} depicts a typical configuration of an ultrasound transducer. Its main component is a piezoelectric material\cite{Hendee.2003..317}.
 
 
 
@@ -48,7 +48,12 @@ Figure ~\ref{~fig:Ultrasound transducer} depicts a typical configuration of an u
 \end{figure}
 \footnotetext{http://www.genesis.net.au/~ajs/projects/medical\_physics/ultrasound/index.html}
 
+\subsection{Piezoelectric Effect}
+The phenomenon of piezoelectricity was first discovered by Jcques and Pierre Curie in 1880 where the observed that under the influence of mechanical stress certain crystal undergoes electrification. ~\cite{CurieP.1880.CRF.294}. Soon after that in 1881 a converse piezoelectric effect was derived mathematically by Lippman ~\cite{G.1881.AdCedP5s.145} using thermodynamic principles which was confirmed later by the curie brothers ~\cite{CurieP.1881.CRF.1137} on the same year. The latter effect was termed as indirect piezoelectric effect and the former one as direct piezoelectric effect. This phenomenon of piezoelectricity was observed only on certain materials like tourmaline,quartz,topaz,cane sugar and Rochelle salt mostly in the direction normal to polar axis. Based on this, it was concluded that this effect can be explained by the crystal symmetry study. Because of its unique nature, the discovery of piezoelectric materials created general interest among researchers  which led this material find use in underwater sonar, medical imaging instrument, car accelerometers etc. 
 
+In a piezoelectric material under equilibrium condition, the electronic charge distribution of the constituent elements are balanced equally between positive and negative charges in order to make the crystal electrically neutral. When perturbation is applied in the means of mechanical stress (Direct piezoelectric effect), the equilibrium charge distribution is compromised by the mechanical strain. The strain produces lattice mismatch as a result the charge distribution are arranged in a way to produce a net resultant electrification in the material. Similarly in a indirect or converse piezoelectric effect when electrified, the charge distribution is arranged in accordance to the direction and characteristics of applied electric field. To accommodate this charge perturbation a net resultant strain is generated inside the material. 
+
+\subsection{Ferroelectricity}
 \section{Factor to focus:Dielectric dissipation factor, Hysteresis}
 \section{Ferroelctricity}
 \section{Formation of Perovskite based ferroelectric}
