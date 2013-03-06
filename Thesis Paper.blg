@@ -6,17 +6,19 @@ A level-1 auxiliary file: contents.aux
 A level-1 auxiliary file: tables.aux
 A level-1 auxiliary file: figures.aux
 A level-1 auxiliary file: chap1.aux
-I found no \bibdata command---while reading file Thesis Paper.aux
-Warning--I didn't find a database entry for "Ramsay.1972.A.396"
-Warning--I didn't find a database entry for "Sime1976"
-Warning--I didn't find a database entry for "Jolesz...1"
-Warning--I didn't find a database entry for "Hynynen...5"
-Warning--I didn't find a database entry for "Carson.1978.JCU.126"
-Warning--I didn't find a database entry for "Hunt.1987..354"
-Warning--I didn't find a database entry for "Hynynen.1990..61"
-Warning--I didn't find a database entry for "Takasaki.2007..3817"
-Warning--I didn't find a database entry for "Hendee.2003..317"
-Warning--I didn't find a database entry for "CurieP.1880.CRF.294"
-Warning--I didn't find a database entry for "G.1881.AdCedP5s.145"
-Warning--I didn't find a database entry for "CurieP.1881.CRF.1137"
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: chap5.aux
+A level-1 auxiliary file: bib.aux
+Illegal, another \bibstyle command---line 2 of file bib.aux
+ : \bibstyle
+ :          {ieeetr}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: apdxa.aux
+Database file #1: library.bib
+Warning--empty publisher in Hynynen...5
+Warning--empty year in Hynynen...5
+Warning--empty publisher in Jolesz...1
+Warning--empty year in Jolesz...1
 (There was 1 error message)

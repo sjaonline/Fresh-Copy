@@ -1,4 +1,4 @@
-\documentclass[dvips,letterpaper,12pt]{report}
+\documentclass[dvips,letterpaper,12pt,natbib]{report}
 %\documentclass[aps,preprint, groupaddress , amsmath, amssymb, showpacs, showkeys]{revtex4}
 \usepackage{thesis}
 %\documentclass[aps,twocolumn, groupaddress , amsmath, amssymb, showpacs, showkeys,reprint]{revtex4}

@@ -243,6 +243,18 @@
   journal = {Ferroelectric Crystals}
 }
 
+@ARTICLE{Fennessy20051158,
+  author = {Fiona M. Fennessy and Clare M. Tempany},
+  title = {MRI-guided Focused Ultrasound Surgery of Uterine Leiomyomas1},
+  journal = {Academic Radiology},
+  year = {2005},
+  volume = {12},
+  pages = {1158 - 1166},
+  number = {9},
+  issn = {1076-6332},
+  keywords = {Leiomyoma}
+}
+
 @ARTICLE{G.1881.AdCedP5s.145,
   author = {Lippmann G},
   title = {Principe de la conservation de l'électricité},
@@ -625,7 +637,7 @@
 	Austria,2001)}}
 }
 
-@ARTICLE{Qian2006e31,
+@ARTICLE{Qian.2006.U.31,
   author = {Zu Wen Qian and Liulin Xiong and Jinshen Yu and Daoyuan Shao and
 	Houqing Zhu and Xiaodong Wu},
   title = {Noninvasive thermometer for HIFU and its scaling},
