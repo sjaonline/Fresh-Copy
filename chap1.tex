@@ -33,7 +33,7 @@ Ultrasound are basically sound waves with frequency greater than 1MHz. As human 
 
 \subsection{Ultrasound Transducer}
 Transducer is a device that converts one form of energy into another.Ultrasonic transducer is also one form of energy conversion device which converts electrical energy into mechanical energy using the piezoelectric effect.The transducer is operated at the resonance frequency of the piezoelectric material where it present higher response~\cite{Takasaki.2007..3817}.The piezoelectric materials vibrates with the cycles of contraction and expansion in response to the electrical energy by means of alternating current. As a result compression wave and expansion wave is generated.Possible dampening of the sound wave might occurs in situation where during cycles of contraction and expansion, expansion wave generated is weakened by an expansion wave. This represents a situation where compression wave is generated in one side of the materials before the expansion wave from other side has left the material. In a similar way, compression wave can also be weakened by expansion wave to dampen crystal response. In order to avoid these situations  careful control of the thickness of the piezoelectric materials according to the resonance frequency of the particular material. The established relationship between resonance frequency  and the thickness is
- \begin{equation}\label{Eq:Phase-parallel}
+ \begin{equation}\label{Eq:Effectivethichness-frequency}
     t=\frac{n\lambda}{2}
 \end{equation}
 Here $\lambda$ is the wavelength of applied frequency and t is the effective thickness.
@@ -78,14 +78,28 @@ It is obvious that the charge distribution disruption which generates the sponta
 	\caption[Two dimensional ferroelectric distortion]{Two dimensional ferroelectric distortion}\label{fig:Two dimensional ferroelectric distortion}
 \end{figure}
 \section{Current challenge in High Intensity Focused Ultrasound}
-HIFU, despite of being one of the most promising treatment it is expensive. The majority of the high treatment cost comes from the involvement of MRI which costs about \$4000 per hour for a typical HIFU treatment.Beside the treatment also involves charges for surgeon and other miscellaneous costs. A typical HIFU operation time time is very long( more than $2-3$ hours).  which make a typical treatment cost of more than \$10000 for a 2 hours treatment.Also during the whole operation,the patient are restricted to move which causes discomfort to the patient. MRI involvement during the treatment is essential as it monitors the thermal ablation process. But, the longer operation time which is responsible for the higher treatment cost comes because of the application of heating and cooling pulse. Figure ~\ref{fig:Heating and Cooling pulse in HIFU treatment} depict a typical heating and cooling cycle applied during HIFU operation which suggests the time utilization efficiency of around $30$\%. 
- 
-\begin{figure}[t]
+HIFU, despite of being one of the most promising treatment it is expensive. The majority of the high treatment cost comes from the involvement of MRI which costs about \$4000 per hour for a typical HIFU treatment.Beside the treatment also involves charges for surgeon and other miscellaneous costs. A typical HIFU operation time time is very long( more than $2-3$ hours).  which make a typical treatment cost of more than \$10000 for a 2 hours treatment.Also during the whole operation,the patient are restricted to move which causes discomfort to the patient. MRI involvement during the treatment is essential as it monitors the thermal ablation process. But, the longer operation time which is responsible for the higher treatment cost comes because of a delay in sonication heating pulse. Figure ~\ref{fig:Heating and Cooling pulse in HIFU treatment} depict a typical heating and delay cycle applied during HIFU operation which suggests the time utilization efficiency of around $30$\%.\begin{figure}[t]
 \centering
 	\includegraphics[width=0.7\textwidth]{HeatingandCoolingpulse.eps}\\
-	\caption[Heating and Cooling pulse in HIFU treatment]{Heating and Cooling pulse in HIFU treatment}\label{fig:Heating and Cooling pulse in HIFU treatment}
-\end{figure}
-\section{Factor to focus:Dielectric dissipation factor, Hysteresis}
-\section{Ferroelctricity}
-\section{Formation of Perovskite based ferroelectric}
+	\caption[Heating and delay cycle in HIFU treatment]{Heating and delay cycle in HIFU treatment}\label{fig:Heating and Cooling pulse in HIFU treatment}
+\end{figure} This longer delay in sonication is applied in order to prevent thermal build up due to cumulative build up of ultrasound  near the transducer[Add reference]. This thermal build up if not prevented, can result in bubble because of boiling of water in the nearby tissue. Because of these bubble the focused ultrasound beam can get reflected or scattered near the bubble originating places places which in turn can results in deviation of path of the focused ultrasound.[Add reference]. Also from the transducer point of view, sufficient thermal build up can the expansion of the ferroelectric materials which will lead to the violation of  effective thickness-resonance frequency relationship (Equation~\ref{Eq:Effectivethichness-frequency})  and as a result dampening of ultrasound. And in worst case scenario, too much thermal build up can cause depolarization of the ferroelectric material if the temperature is near the curie temperature of the material. Besides during the sonication this thermal build up causes much discomfort to the patient.
 
+\subsection{Factor to focus: Dielectric dissipation factor, Hysteresis}
+Thermal build up is resulted due to overheating of the ferroelectric materials during sonication and this is  dependant on the ferroelectric material itself. The associated material characteristic is called dielectric dissipation factor, tan$\delta$.
+Dielectric dissipation factor is a measure of parasitic loss that results by subjecting a material to alternating electric field. \begin{figure}[t]
+\centering
+	\includegraphics[width=0.7\textwidth]{E-Icharacteristics.eps}\\
+	\caption[Loss current in a dielectric]{Loss current in a dielectric}\label{fig:Loss current in a dielectric}
+\end{figure}As shown in figure ~\ref{fig:Loss current in a dielectric} when an electric field, E is applied in an ideal material the resultant charging current find itself out phase by $90^{0}$ with the applied electric field. But in a typical ferroelectric material which is essentially a dielectric the current also has an loss component in phase with applied electric field and the net resultant current makes an angle $\delta$ with the ideal charging current. This loss current is a result of dissipation of energy as heat. This loss can interpreted using the parameter tan$\delta$ which is the ratio of loss current and charging current.
+ \begin{equation}\label{Eq:tandeltacurrentloss}
+    tan\delta =\frac{Loss\ Current,I"}{Charging\ Current, I'}
+\end{equation}
+Now,the current flowing throw the material is related to the capacitance(C), applied electric field(E), frequency of the applied electric field($\omega$) and the dielectric constant of the material($\varepsilon$) in the following way,
+ \begin{equation}\label{Eq:currentand capacitance}
+    I=E\omega\varepsilon C
+\end{equation}
+
+So the dielectric dissipation factor can also be express as a ratio of the complex part of the dielectric constant and real part of the dielectric constant.
+\begin{equation}\label{Eq:tandeltacurrentloss}
+    tan\delta =\frac{\varepsilon"}{\varepsilon'}
+\end{equation}

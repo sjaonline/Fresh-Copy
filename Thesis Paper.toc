@@ -10,14 +10,12 @@
 \contentsline {subsection}{\numberline {1.2.3}Piezoelectric Effect}{5}
 \contentsline {subsection}{\numberline {1.2.4}Ferroelectricity}{7}
 \contentsline {section}{\numberline {1.3}Current challenge in High Intensity Focused Ultrasound}{9}
-\contentsline {section}{\numberline {1.4}Factor to focus:Dielectric dissipation factor, Hysteresis}{11}
-\contentsline {section}{\numberline {1.5}Ferroelctricity}{11}
-\contentsline {section}{\numberline {1.6}Formation of Perovskite based ferroelectric}{11}
-\contentsline {chapter}{\numberline {2}Figures and Tables}{12}
-\contentsline {section}{\numberline {2.1}Figures}{12}
-\contentsline {section}{\numberline {2.2}Tables}{16}
-\contentsline {chapter}{\numberline {3}Dealing with Errors}{19}
-\contentsline {chapter}{\numberline {4}Lorem Ipsum}{20}
-\contentsline {chapter}{\numberline {5}Handling Citations}{23}
-\contentsline {chapter}{Bibliography}{24}
-\contentsline {chapter}{\numberline {A}Appendix title}{27}
+\contentsline {subsection}{\numberline {1.3.1}Factor to focus: Dielectric dissipation factor, Hysteresis}{11}
+\contentsline {chapter}{\numberline {2}Figures and Tables}{13}
+\contentsline {section}{\numberline {2.1}Figures}{13}
+\contentsline {section}{\numberline {2.2}Tables}{17}
+\contentsline {chapter}{\numberline {3}Dealing with Errors}{20}
+\contentsline {chapter}{\numberline {4}Lorem Ipsum}{21}
+\contentsline {chapter}{\numberline {5}Handling Citations}{24}
+\contentsline {chapter}{Bibliography}{25}
+\contentsline {chapter}{\numberline {A}Appendix title}{28}

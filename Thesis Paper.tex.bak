@@ -1,5 +1,5 @@
-\documentclass[dvips,letterpaper,12pt,natbib]{report}
-%\documentclass[aps,preprint, groupaddress , amsmath, amssymb, showpacs, showkeys]{revtex4}
+\%documentclass[dvips,letterpaper,12pt,openbib]{report}
+\documentclass[aps,preprint, groupaddress , amsmath, amssymb, showpacs, showkeys]{revtex4}
 \usepackage{thesis}
 %\documentclass[aps,twocolumn, groupaddress , amsmath, amssymb, showpacs, showkeys,reprint]{revtex4}
 \usepackage{graphicx}% Include figure files

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.8.16)  6 MAR 2013 15:36
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.8.16)  7 MAR 2013 17:23
 entering extended mode
 **C:/Documents*and*Settings/student/Desktop/Thesis*Paper/Fresh*Copy/Thesis*Pape
 r.tex
@@ -168,9 +168,17 @@ Package: natbib 2009/11/07 8.31a (PWD, AO)
 \bibsep=\skip51
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count103
-) ("Thesis Paper.aux" (abstract.aux) (ack.aux) (contents.aux) (tables.aux) (fig
-ures.aux) (chap1.aux) (chap2.aux) (chap3.aux) (chap4.aux) (chap5.aux) (bib.aux)
- (apdxa.aux))
+)
+
+LaTeX Warning: Unused global option(s):
+    [aps].
+
+("Thesis Paper.aux" (abstract.aux) (ack.aux) (contents.aux) (tables.aux)
+(figures.aux) (chap1.aux
+
+LaTeX Warning: Label `Eq:tandeltacurrentloss' multiply defined.
+
+) (chap2.aux) (chap3.aux) (chap4.aux) (chap5.aux) (bib.aux) (apdxa.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
@@ -273,19 +281,17 @@ File: Hysteresis.eps Graphic file (type eps)
 
 <Hysteresis.eps> [7]
 File: Perovskite2D.eps Graphic file (type eps)
- <Perovskite2D.eps> [8] [9]
+ <Perovskite2D.eps> [8]
 File: HeatingandCoolingpulse.eps Graphic file (type eps)
  <HeatingandCoolingpulse.eps>
-Overfull \hbox (19.13383pt too wide) in paragraph at lines 88--88
-[]\OT1/cmr/bx/n/17.28 Factor to fo-cus:Dielectric dis-si-pa-tion fac-tor, Hys-
- []
-
-) [10] [11] (chap2.tex
+[9] [10]
+File: E-Icharacteristics.eps Graphic file (type eps)
+ <E-Icharacteristics.eps> [11]) [12] (chap2.tex
 Chapter 2.
 File: figures/MUN_Logo_Pantone.eps Graphic file (type eps)
 <figures/MUN_Logo_Pantone.eps>
 File: figures/enrollment.eps Graphic file (type eps)
- <figures/enrollment.eps> [12
+ <figures/enrollment.eps> [13
 
 
 
@@ -294,8 +300,8 @@ File: figures/enrollment-landscape.eps Graphic file (type eps)
 
 <figures/enrollment-landscape.eps>
 File: figures/enrollment-rotate.eps Graphic file (type eps)
- <figures/enrollment-rotate.eps> [13]
-[14]
+ <figures/enrollment-rotate.eps> [14]
+[15]
 File: figures/db-deadlock.eps Graphic file (type eps)
  <figures/db-deadlock.eps>
 Overfull \hbox (18.96304pt too wide) in paragraph at lines 46--51
@@ -310,26 +316,26 @@ Overfull \hbox (6.92888pt too wide) in paragraph at lines 52--65
 ip-pets) us-ing the []\OT1/cmtt/m/n/12 \muntxtfig
  []
 
-[15] [16]
+[16] [17]
 Overfull \hbox (18.31134pt too wide) in paragraph at lines 108--151
  [][][] 
  []
 
-) [17] [18] (chap3.tex
+) [18] [19] (chap3.tex
 Chapter 3.
-) [19
+) [20
 
 
 
 ] (chap4.tex
 Chapter 4.
-[20
+[21
 
 
 
-] [21]) [22] (chap5.tex
+] [22]) [23] (chap5.tex
 Chapter 5.
-) [23
+) [24
 
 
 
@@ -343,29 +349,33 @@ Missing character: There is no à in font cmr12!
 Missing character: There is no é in font cmr12!
 Missing character: There is no é in font cmr12!
 Missing character: There is no é in font cmr12!
- [24
+ [25
 
 
 
 ]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ¤ in font cmr12!
- [25])) [26] (apdxa.tex
+ [26])) [27] (apdxa.tex
 Appendix A.
-) [27
+) [28
 
 
 
 ] ("Thesis Paper.aux" (abstract.aux) (ack.aux) (contents.aux) (tables.aux) (fig
 ures.aux) (chap1.aux) (chap2.aux) (chap3.aux) (chap4.aux) (chap5.aux)
-(bib.aux) (apdxa.aux)) ) 
+(bib.aux) (apdxa.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2152 strings out of 95305
- 24884 string characters out of 1183042
- 95495 words of memory out of 1500000
- 5212 multiletter control sequences out of 110000
+ 2158 strings out of 95305
+ 25033 string characters out of 1183042
+ 95566 words of memory out of 1500000
+ 5217 multiletter control sequences out of 110000
  20376 words of font info for 79 fonts, out of 3000000 for 5000
  14 hyphenation exceptions out of 8191
  34i,11n,27p,2376b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "Thesis Paper.dvi" (35 pages, 55276 bytes).
+Output written on "Thesis Paper.dvi" (36 pages, 58380 bytes).
