@@ -102,4 +102,20 @@ Now,the current flowing throw the material is related to the capacitance(C), app
 So the dielectric dissipation factor can also be express as a ratio of the complex part of the dielectric constant and real part of the dielectric constant.
 \begin{equation}\label{Eq:tandeltacurrentloss}
     tan\delta =\frac{\varepsilon"}{\varepsilon'}
+\end{equation} 
+
+The reason that there is a loss component is that during the application of alternating electric field to ferroelectric materials the polarization doesn't get enough time to attain equilibrium with the applied field. This lag is due to the fact that the  forces in the system can't change according to the which it is subjected. Normally, in a process involve application of alternating current to a ferroelectric materials during ultrasound generation involves application of frequency in  MHz range which means it gets time of around $1e^{-6}$ seconds. But as polarization requires much more time in order to attain equilibrium with applied electric field, this generates a lag between applied electric field and polarization.Mathematically, the applied alternating electric field has the following form,
+\begin{equation}\label{Eq:Elelctricfield}
+    E =E_{0}e^{i\omega t}
 \end{equation}
+Because of the lag in response the polarization has the following form,
+  \begin{equation}\label{Eq:Polarization}
+    P =P_{0}e^{i\omega t-\delta}
+\end{equation}
+As a result of this delay, the polarization Vs electric field curve takes an hysteresis form. 
+
+\begin{figure}[t]
+\centering
+	\includegraphics[width=0.4\textwidth]{Hysteresis.eps}\\
+	\caption[The ferroelectric hysteresis]{The ferroelectric hysteresis}\label{fig:The ferroelectric hysteresis}
+\end{figure}
