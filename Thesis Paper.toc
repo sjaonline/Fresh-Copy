@@ -7,15 +7,16 @@
 \contentsline {section}{\numberline {1.2}Basic Principle}{3}
 \contentsline {subsection}{\numberline {1.2.1}Ultrasound Generation}{3}
 \contentsline {subsection}{\numberline {1.2.2}Ultrasound Transducer}{4}
-\contentsline {subsection}{\numberline {1.2.3}Piezoelectric Effect}{5}
+\contentsline {subsection}{\numberline {1.2.3}Piezoelectric Effect}{6}
 \contentsline {subsection}{\numberline {1.2.4}Ferroelectricity}{7}
-\contentsline {section}{\numberline {1.3}Current challenge in High Intensity Focused Ultrasound}{9}
-\contentsline {subsection}{\numberline {1.3.1}Factor to focus: Dielectric dissipation factor, Hysteresis}{11}
-\contentsline {chapter}{\numberline {2}Figures and Tables}{14}
-\contentsline {section}{\numberline {2.1}Figures}{14}
-\contentsline {section}{\numberline {2.2}Tables}{18}
-\contentsline {chapter}{\numberline {3}Dealing with Errors}{21}
-\contentsline {chapter}{\numberline {4}Lorem Ipsum}{22}
-\contentsline {chapter}{\numberline {5}Handling Citations}{25}
-\contentsline {chapter}{Bibliography}{26}
-\contentsline {chapter}{\numberline {A}Appendix title}{29}
+\contentsline {section}{\numberline {1.3}Current challenge in High Intensity Focused Ultrasound}{10}
+\contentsline {subsection}{\numberline {1.3.1}Factor to focus: Dielectric dissipation factor, Hysteresis}{12}
+\contentsline {subsection}{\numberline {1.3.2}Research goal}{14}
+\contentsline {chapter}{\numberline {2}Figures and Tables}{16}
+\contentsline {section}{\numberline {2.1}Figures}{16}
+\contentsline {section}{\numberline {2.2}Tables}{20}
+\contentsline {chapter}{\numberline {3}Dealing with Errors}{23}
+\contentsline {chapter}{\numberline {4}Lorem Ipsum}{24}
+\contentsline {chapter}{\numberline {5}Handling Citations}{27}
+\contentsline {chapter}{Bibliography}{28}
+\contentsline {chapter}{\numberline {A}Appendix title}{31}
